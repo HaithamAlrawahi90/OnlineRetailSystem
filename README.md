@@ -1,3 +1,8 @@
 # OnlineRetailSystem
 Online Retail System
-A web-based retail management platform with secure user authentication, intelligent product search, and dynamic report generation for sales, inventory, and customer insights.
+🔐 User Authentication
+- 🔎 Product Search
+- 📊 Report Generation (Sales, Inventory, Customer Behavior)
+- 📤 Export Reports (PDF, Excel, CSV)
+- 🕒 Scheduled and On-Demand Reporting
+- 📈 KPI Dashboard with Role-Based Access Control
